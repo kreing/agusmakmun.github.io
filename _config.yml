@@ -2,10 +2,10 @@ title: Some Thoughts
 description: Some Coherent, Some Not
 author: Kyle Reing
 github: https://github.com/kreing
-about: Landing page + infrequent blog 
+about: landing page + infrequent blog 
 #disqus_shortname: stackproblems
 #google_analytics: UA-XXXXXXXX-Y
-#avatar_url: /static/img/avatar.jpg
+avatar_url:
 
 enableTags: true
 tagarray: []
