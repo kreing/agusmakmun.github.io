@@ -1,11 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+title: Some Thoughts
+description: Some Coherent, Some Not
+author: Kyle Reing
+github: https://github.com/kreing
+about: Landing page + infrequent blog 
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
+#avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -15,31 +15,31 @@ collections:
     output: true
     permalink: /project/:path/
 
-social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/agusmakmun"
+#social:
+    #- icon: fa-facebook
+      #link: "#"
+    #- icon: fa-twitter
+      #link: "https://twitter.com/agusmakmun6"
+    #- icon: fa-linkedin
+      #link: "https://www.linkedin.com/in/summonagus"
+    #- icon: fa-stack-exchange
+      #link: "#"
+    #- icon: fa-github
+      #link: "https://github.com/agusmakmun"
 
-share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+#share:
+  #twitter_username: agusmakmun6
+  #fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Research
+      url: /research/
+    #- text: XML Feed
+      #url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://kreing.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
