@@ -6,6 +6,7 @@ about: landing page + infrequent blog
 #disqus_shortname: stackproblems
 #google_analytics: UA-XXXXXXXX-Y
 avatar_url:
+theme: jekyll-theme-dinky
 
 enableTags: true
 tagarray: []
